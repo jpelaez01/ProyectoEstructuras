@@ -1,0 +1,44 @@
+# depslib dependency file v1.0
+1504126374 source:c:\users\kevin\desktop\estructuras de datos\proyectoestructuras\main.cpp
+	<iostream>
+	<fstream>
+	<string.h>
+	<string>
+	<list>
+	<stdlib.h>
+	<iterator>
+	"figura.hpp"
+
+1504125511 source:c:\users\kevin\desktop\estructuras de datos\proyectoestructuras\figura.cpp
+	"figura.hpp"
+	<iostream>
+	<string>
+
+1504126581 c:\users\kevin\desktop\estructuras de datos\proyectoestructuras\figura.hpp
+	<iostream>
+	<list>
+	"vertice.hpp"
+	"aristas.hpp"
+
+1504125816 c:\users\kevin\desktop\estructuras de datos\proyectoestructuras\vertice.hpp
+	<iostream>
+
+1504124583 source:c:\users\kevin\desktop\estructuras de datos\proyectoestructuras\vertice.cpp
+	<iostream>
+	"vertice.hpp"
+
+1504126642 c:\users\kevin\desktop\estructuras de datos\proyectoestructuras\aristas.hpp
+	<iostream>
+	"aristas.cpp"
+
+1504069502 c:\users\kevin\desktop\estructuras de datos\proyectoestructuras\aristas.h
+	<iostream>
+
+1504126660 c:\users\kevin\desktop\estructuras de datos\proyectoestructuras\aristas.cpp
+	"aristas.hpp"
+
+1504125511 c:\users\kevin\desktop\estructuras de datos\proyectoestructuras\figura.cpp
+	"figura.hpp"
+	<iostream>
+	<string>
+
