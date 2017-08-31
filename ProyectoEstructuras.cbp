@@ -32,7 +32,11 @@
 			<Add option="-Wall" />
 			<Add option="-fexceptions" />
 		</Compiler>
+		<Unit filename="figura.h" />
+		<Unit filename="figura.hpp" />
 		<Unit filename="main.cpp" />
+		<Unit filename="vertice.h" />
+		<Unit filename="vertice.hpp" />
 		<Extensions>
 			<code_completion />
 			<envvars />
